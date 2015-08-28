@@ -1,0 +1,29 @@
+.reveal h1 {
+  font-size: 2.8em; }
+.reveal h2 {
+  color: #42affa}
+.reveal h3 {
+  color: #42affa}
+#resize{
+	height:600px;     
+	width:auto; /* you can use % */}
+.reveal .vocab{
+ 
+	margin-top: 1em;
+	height: auto;
+	width: 50%;
+ 	margin-left: auto;
+    margin-right: auto;
+	background-color: #444444; 
+	color: #fff;
+	border-style: dashed;
+	border-color: #42affa;
+	border-width: 5px;}   
+.reveal .vocab p{
+	font-size: 0.5em !important;
+	font-style: italic;}
+#blue{
+	color: #42affa !important;}
+#smallest{
+	font-size: 0.7em !important;}
+  
